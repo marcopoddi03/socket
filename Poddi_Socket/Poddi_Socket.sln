@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poddi_Socket", "Poddi_Socket\Poddi_Socket.csproj", "{EE0DE4CE-6E43-43B1-9574-7D7FC470D74E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0DE4CE-6E43-43B1-9574-7D7FC470D74E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0DE4CE-6E43-43B1-9574-7D7FC470D74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0DE4CE-6E43-43B1-9574-7D7FC470D74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0DE4CE-6E43-43B1-9574-7D7FC470D74E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84D8A221-53EC-4952-8A4C-8D80839500B8}
+	EndGlobalSection
+EndGlobal
